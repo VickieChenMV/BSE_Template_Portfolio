@@ -21,4 +21,5 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was setting up and connecting the Raspberry Pi with my computer with VNC Viewer for more effecient coding. I downloaded the MAC OS on my SD card and uploaded to the Raspberry Pi LCD monitor. I connected my keyboard and mouse wirelessly to the monitor, then downloaded VNC Viewer on my MacBook to connect to my monitor. All my coding is done on my Mac since it's much easier. Another part of my first milestone was being able to finally send out a tweet on my account using Raspberry Pi. There was a 401 autorization error that took me a few days to fix, but now my Twitter bot can tweet using just command lines. 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![first milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627933036/video_to_markdown/images/youtube--dtM57HFt8QI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dtM57HFt8QI "first milestone")
+
