@@ -23,7 +23,7 @@ My first milestone was setting up and connecting the Raspberry Pi with my comput
 
 [![first milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627933036/video_to_markdown/images/youtube--dtM57HFt8QI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dtM57HFt8QI "first milestone")
 
-<img src="images/pi setup.png" width=500 align=center style="float:right; padding-right:10px">
+<img src="images/pi setup.png" width=500 align=center style="float:center; padding-right:10px">
 
-<img src="images/twitterbot.png" width=500 align=center style="float:right; padding-right:10px">
+<img src="images/twitterbot.png" width=500 align=center style="float:center; padding-right:10px">
 
