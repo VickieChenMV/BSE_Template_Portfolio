@@ -25,5 +25,5 @@ My first milestone was setting up and connecting the Raspberry Pi with my comput
 
 <img src="images/pi setup.png" width=500 align=center style="float:center; padding-right:10px">
 
-<img src="images/twitterbot.png" width=500 align=center style="float:center; padding-right:10px">
+<img src="images/twitterbot.png" width=500 align=center style="float:left; padding-left:10px">
 
