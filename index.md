@@ -5,7 +5,7 @@ I am working on a raspberry pi twitter bot.
 |:--:|:--:|:--:|:--:|
 | Vickie Chen | Monta Vista High School | Artificial Intelligence | Incoming Senior
 
-<img src="images/twitter icon.jpg" width=500 align=center style="float:left; padding-left:10px">
+![Twitter Icon](https://images.pexels.com/photos/5417837/pexels-photo-5417837.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
   
 # Final Milestone
 coming soon
