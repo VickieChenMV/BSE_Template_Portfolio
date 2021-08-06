@@ -4,3 +4,4 @@ plugins:
 markdown: kramdown
 
 theme: jekyll-theme-minimal
+title: Twitter Bot
