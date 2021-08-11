@@ -25,6 +25,15 @@ For automating the Twitter bot, I used cron job commands. I imported datetime in
 
 One minute:
 
+<img src="images/one minute.png" width=500 align=center style="float:center; padding-right:10px">
+
+Five minutes:
+
+<img src="images/five minutes.png" width=500 align=center style="float:center; padding-right:10px">
+
+All the time:
+
+<img src="images/every minute.png" width=500 align=center style="float:center; padding-right:10px">
 
 
 
