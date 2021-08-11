@@ -13,7 +13,7 @@ coming soon
 
 # Second Milestone
 
-My second milestone consisted of fixing some of the code I wrote before and tweeting out images. I was also able to automate the Twitter bot and post tweets  with specific time intervals or different times of the day. I had to fix some of my previous code because in order to automate the Twitter bot, I can't manually authorize the app every single time I post a tweet. To tweet out photos and videos, I used the same function as tweeting out plain text posts, but added '_with_media' and defined the media (photo in my code). 
+My second milestone consisted of fixing some of the code I wrote before and tweeting out images. I was also able to automate the Twitter bot and post tweets  with specific time intervals or different times of the day. I had to fix some of my previous code because in order to automate the Twitter bot, I can't manually authorize the app every single time I post a tweet. To tweet out photos and videos, I used the same function as tweeting out plain text posts, but added '_with_media' and defined the media (<i>photo</i> in my code). 
 
 <img src="images/twitterbot2.png" width=500 align=center style="float:center; padding-right:10px">
 
