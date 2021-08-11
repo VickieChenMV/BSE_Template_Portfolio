@@ -19,14 +19,17 @@ My second milestone consisted of fixing some of the code I wrote before and twee
 
 For automating the Twitter bot, I used cron job commands. I imported datetime in my code and to print out the timestamp of the times the tweets posted to keep track. I tested out multiple time intervals, like one minute, five minutes, and even having it run all the time. 
 
-<img src="images/twitterbot3.png" width=500 align=center style="float:center; padding-right:40px">
+| importing datetime | crontab file| 
+|    :----:      |    :----:   |
+|<img src="images/twitterbot3.png" width=500 align=center style="float:center; padding-right:40px"> | <img src="images/twitterbot4.png" width=500 align=center style="float:center; padding-right:10px"> |
 
-<img src="images/twitterbot4.png" width=500 align=center style="float:center; padding-right:10px">
+
+
 
 
 | **One minute** | **Five minutes** | **Every minute** | 
 |:---        |    :----:   |          ---: |
-| <img src="images/one minute.png" width=200 align=center style="float:center; padding-right:10px"> | <img src="images/five minutes.png" width=200 align=center style="float:center; padding-right:10px">| <img src="images/every minute.png" width=200 align=center style="float:center; padding-right:10px">|
+| <img src="images/one minute.png" width=33% align=center style="float:center; padding-right:10px"> | <img src="images/five minutes.png" width=33% align=center style="float:center; padding-right:10px">| <img src="images/every minute.png" width=33% align=center style="float:center; padding-right:10px">|
 
 
 
