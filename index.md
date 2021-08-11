@@ -23,6 +23,9 @@ For automating the Twitter bot, I used cron job commands. I imported datetime in
 
 <img src="images/twitterbot4.png" width=500 align=center style="float:center; padding-right:10px">
 
+One minute:
+
+
 
 
 # First Milestone
