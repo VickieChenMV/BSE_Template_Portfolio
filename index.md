@@ -11,6 +11,7 @@ I am working on a raspberry pi twitter bot.
 
 My third and final milestone was to set up my Raspberry Pi webcam and tweet out images live. To do this, I continued using cron job for automating and simply connected it to my webcam. In my code, I originally used the Pygame library to take pictures with the webcam but it would only show blank black screened images. So I switched to the Picamera library instead and that worked fine. Every other part of my code remained the same and the webcam would take pictures every minute and post them on Twitter. 
 
+<img src="images/twitterbot2.png" width=500 align=center style="float:center; padding-right:10px">
 
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628882530/video_to_markdown/images/youtube--iQRRl868OeA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iQRRl868OeA "Final Milestone")
