@@ -25,7 +25,7 @@ For automating the Twitter bot, I used cron job commands. I imported datetime in
 |    :----:      |    :----:   | 
 |<img src="images/twitterbot3.png" width=500 align=center style="float:center; padding-right:40px"> | <img src="images/twitterbot4.png" width=500 align=center style="float:center; padding-right:10px"> |
 
-
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628884074/video_to_markdown/images/youtube--gCzjCQgVddc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gCzjCQgVddc "Second Milestone")
 
 
 
@@ -42,9 +42,9 @@ For automating the Twitter bot, I used cron job commands. I imported datetime in
 
 My first milestone was setting up and connecting the Raspberry Pi with my computer with VNC Viewer for more effecient coding. I downlaoded Raspberry Pi OS (Mac version to be compatible with my laptop) on my SD card and uploaded to a LCD monitor. I connected my keyboard and mouse wirelessly to the monitor, then downloaded VNC Viewer on my MacBook. Using VNC Viewer, I casted my monitor to my Mac so that it would show on my Mac everything that was happening on the monitor. All my coding is done on my Mac since it's much easier. I had to make a Twitter Developer App account to link my code to my the Twitter account I was posting on. I created my Twitter bot using Python and importing Twython to use the packages it came with. I had to generate API and authorization keys from my Twittter developer account and set those to constants in my code. Another part of my first milestone was being able to finally send out a tweet on my account using Raspberry Pi. There was a 401 authorization error that took me a few days to fix, and I found code that worked to authorize the app manually with a link everytime I ran the command line to post a tweet. 
 
-[![first milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627933036/video_to_markdown/images/youtube--dtM57HFt8QI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dtM57HFt8QI "first milestone")
-
 <img src="images/pi setup.png" width=500 align=center style="float:center; padding-right:10px">
 
 <img src="images/twitterbot.png" width=500 align=center style="float:left; padding-left:10px">
+
+[![first milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1627933036/video_to_markdown/images/youtube--dtM57HFt8QI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=dtM57HFt8QI "first milestone")
 
