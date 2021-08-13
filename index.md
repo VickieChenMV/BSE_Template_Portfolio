@@ -10,6 +10,8 @@ I am working on a raspberry pi twitter bot.
 # Final Milestone
 coming soon
 
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1628882530/video_to_markdown/images/youtube--iQRRl868OeA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iQRRl868OeA "Final Milestone")
+
 
 # Second Milestone
 
@@ -20,7 +22,7 @@ My second milestone consisted of fixing some of the code I wrote before and twee
 For automating the Twitter bot, I used cron job commands. I imported datetime in my code and to print out the timestamp of the times the tweets posted to keep track. I tested out multiple time intervals, like one minute, five minutes, and even having it run all the time. 
 
 | importing datetime | crontab file| 
-|    :----:      |    :----:   |
+|    :----:      |    :----:   | 
 |<img src="images/twitterbot3.png" width=500 align=center style="float:center; padding-right:40px"> | <img src="images/twitterbot4.png" width=500 align=center style="float:center; padding-right:10px"> |
 
 
@@ -29,7 +31,7 @@ For automating the Twitter bot, I used cron job commands. I imported datetime in
 
 | **One minute** | **Five minutes** | **Every minute** | 
 |:---        |    :----:   |          ---: |
-| <img src="images/one minute.png" width=33% align=center style="float:center; padding-right:10px"> | <img src="images/five minutes.png" width=33% align=center style="float:center; padding-right:10px">| <img src="images/every minute.png" width=33% align=center style="float:center; padding-right:10px">|
+| <img src="images/one minute.png" width=200 align=center style="float:center; padding-right:10px"> | <img src="images/five minutes.png" width=200 align=center style="float:center; padding-right:10px"> | <img src="images/every minute.png" width=200 align=center style="float:center; padding-right:10px">|
 
 
 
